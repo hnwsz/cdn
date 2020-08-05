@@ -260,7 +260,7 @@ $(function () {
                 name: '镜像',
                 icon: 'https://cdn.jsdelivr.net/gh/hnwsz/cdn/homepage/img/so/google-mirror.svg',
                 color: '#148aff',
-                url: 'https://sspp.xyz/search?hl=zh&q='
+                url: 'https://aahh.icu/search?q='
             }
         ]
     }
