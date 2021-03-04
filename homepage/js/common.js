@@ -1172,7 +1172,7 @@ function renderData(id, name, url, color) {
 	return `
     <div class="commons">
         <div class="commons-content">
-            <img src="https://favicon.link/${url}"></img>
+            <img src="https://favicon.cccyun.cc/${url}"></img>
             <a id="${id}" style="color:${color};" href="${url}" target="_blank">${name}</a>
         </div>
         <div class="commons-btn" title="更多选项">
